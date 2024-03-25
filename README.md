@@ -22,7 +22,7 @@
 - основы работы с Git и GitHub.
 
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="480" height="360"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="380" height="260"/>
 </div>
 
 Инструменты и стек: #python #Git #GitHub #VSCode #PyCharm #Flake8
