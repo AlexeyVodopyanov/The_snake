@@ -1,4 +1,4 @@
-# Классическая компьютерная игра «Змейка»
+# «Змейка»
 
 <h1 align="center">Привет всем, Меня зовут <a href="https://daniilshat.ru/" target="_blank">Алексей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
