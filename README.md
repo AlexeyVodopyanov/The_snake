@@ -9,3 +9,6 @@
 Цель игры — увеличивать длину змейки, «съедая» появляющиеся на экране яблоки (часто изображаемые в виде точек или других символов).
 
 
+![image](https://github.com/AlexeyVodopyanov/The_snake/assets/106692645/e1e02316-758f-4d4a-a4c1-6774432ca3e5)
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
